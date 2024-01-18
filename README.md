@@ -1,3 +1,5 @@
+
+![github](https://github.com/rbhavitha/Health_Care_Analytics/assets/71348485/177f2210-188d-4e9b-8632-1a56fde5bbc2)
 Problem Statement:
 The length of stay (LOS) in healthcare settings significantly affects both costs and patient capacity. This case study aims to analyze the factors that influence LOS for elective hip replacement surgeries, 
 with the goal of improving overall healthcare efficiency.
