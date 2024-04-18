@@ -1,4 +1,4 @@
-Tools : Power BI , Excel
+Tools : Power BI 
 
 Title: Optimizing Healthcare Quality Through Data-Driven Efficiency - Analyzing Elective Hip Replacement Surgeries In New York
 
