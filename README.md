@@ -1,6 +1,6 @@
 Tools : Power BI 
 
-Title: Optimizing Healthcare Quality Through Data-Driven Efficiency - Analyzing Elective Hip Replacement Surgeries In New York
+Title: Healthcare Efficiency Dashboard For New York Hospitals
 
 Problem Statement:
 The length of stay (LOS) in healthcare settings significantly affects both costs and patient capacity. This case study aims to analyze the factors that influence LOS for elective hip replacement surgeries, 
